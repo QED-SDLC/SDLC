@@ -2,7 +2,7 @@
 index: true
 ---
 
-The GitHub repository **QED-DeveloperPortal/SDLC** is a guide to the **Software Development Life Cycle (SDLC)** specifically created for the **Department of Education, Queensland**.
+The GitHub repository **QED-DeveloperPortal/SDLC** is a guide to the **Software Development Life Cycle (SDLC)** specifically created for the **Queensland Department of Education**.
 
 From the point of view of someone wanting to learn about the content, this repository serves as a **documentation portal** to understand the **official process and standards** for developing software within this specific department.
 
@@ -11,7 +11,7 @@ Here is a summary of what you can expect to find in the repository:
 ***
 
 ## Purpose
-The core content is a **guide** detailing the **entire SDLC** as practised by the Queensland Department of Education. This is crucial for anyone involved in building applications for or with the department, as it outlines the mandatory steps, policies, and best practices from initial idea to deployment and maintenance.
+The core content is a **guide** detailing the **entire SDLC** as practised by the department. This is crucial for anyone involved in building applications for or with the department, as it outlines the mandatory steps, policies, and best practices from initial idea to deployment and maintenance.
 
 ***
 
