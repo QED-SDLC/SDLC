@@ -1,0 +1,6 @@
+# CODEOWNERS file
+# Lines starting with '#' are comments
+# Each line is a file pattern followed by one or more owners.
+
+# The following assumes 'Dave-COYS' should be the code owner for the whole repo.
+*	@Dave-COYS
