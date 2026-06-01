@@ -1,3 +1,6 @@
+---
+index: true
+---
 
 ### **3.5 Embedded Governance and Controls**
 

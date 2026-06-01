@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **3.4 Integration with Change and Release Processes**
 
 The SDLC is tightly integrated with organisational Change and Release Management practices:

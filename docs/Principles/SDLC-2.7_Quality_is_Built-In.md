@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.7 Quality is Built-In**
 
 Quality is a shared responsibility across all roles, not owned solely by testing functions.

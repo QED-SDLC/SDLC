@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **7.5 Alignment with Design**
 
 Build activities must remain aligned with approved design decisions:

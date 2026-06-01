@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **12.2 Key Activities**
 
 #### **12.2.1 Define Key Metrics**

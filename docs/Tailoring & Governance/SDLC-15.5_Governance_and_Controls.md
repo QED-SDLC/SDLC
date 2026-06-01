@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **15.5 Governance and Controls**
 
 Key governance principles:

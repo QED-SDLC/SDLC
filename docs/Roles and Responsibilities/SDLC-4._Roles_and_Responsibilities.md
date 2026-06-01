@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## **4. Roles and Responsibilities**
 
 Clear roles and responsibilities are essential to ensure accountability, effective decision-making, and successful delivery outcomes. While specific role titles and structures may vary across teams and methodologies, the responsibilities defined below must be fulfilled for all initiatives.

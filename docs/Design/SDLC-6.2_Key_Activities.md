@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **6.2 Key Activities**
 
 #### **6.2.1 Solution Architecture Design**

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **5.5 Tailoring by Delivery Model**
 
 #### **Agile / Scrum**

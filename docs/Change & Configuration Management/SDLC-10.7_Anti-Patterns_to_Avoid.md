@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **10.7 Anti-Patterns to Avoid**
 
 To maintain effective Change & Configuration Management, teams should avoid:

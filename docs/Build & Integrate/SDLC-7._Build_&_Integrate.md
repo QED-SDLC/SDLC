@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## **7. Build & Integrate**
 
 The Build & Integrate phase is where the solution is developed, configured, and assembled into a working system. It transforms approved designs and requirements into functional software components, while ensuring consistency, quality, and alignment with organisational standards.

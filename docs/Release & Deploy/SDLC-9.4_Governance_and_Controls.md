@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **9.4 Governance and Controls**
 
 The following controls are mandatory:

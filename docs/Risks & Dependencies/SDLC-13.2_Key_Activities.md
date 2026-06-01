@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **13.2 Key Activities**
 
 #### **13.2.1 Risk Identification**

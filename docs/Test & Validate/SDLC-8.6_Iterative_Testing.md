@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **8.6 Iterative Testing (Agile and Product Models)**
 
 In iterative models:

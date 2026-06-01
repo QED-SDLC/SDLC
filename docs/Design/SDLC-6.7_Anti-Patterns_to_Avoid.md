@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **6.7 Anti-Patterns to Avoid**
 
 To ensure effective design practices, teams should avoid:

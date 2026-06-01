@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **10.2 Key Activities**
 
 #### **10.2.1 Change Identification**

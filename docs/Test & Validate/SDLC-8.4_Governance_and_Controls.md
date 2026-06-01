@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **8.4 Governance and Controls**
 
 The following controls must be met:

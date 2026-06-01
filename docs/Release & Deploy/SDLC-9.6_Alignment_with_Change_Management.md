@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **9.6 Alignment with Change Management**
 
 Release & Deploy must align with organisational Change Management practices:

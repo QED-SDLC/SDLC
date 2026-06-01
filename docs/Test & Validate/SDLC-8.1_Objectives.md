@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **8.1 Objectives**
 
 The objectives of Test & Validate are to:

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **14.2 Key Activities**
 
 #### **14.2.1 Tool Selection and Standardisation**

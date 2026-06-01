@@ -1,3 +1,6 @@
+---
+index: true
+---
 
 ### **6.3 Outputs and Deliverables**
 

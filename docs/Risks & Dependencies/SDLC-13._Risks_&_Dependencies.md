@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## **13. Risks & Dependencies**
 
 The Risks & Dependencies phase focuses on **identifying, assessing, monitoring, and mitigating risks** associated with software delivery, as well as tracking dependencies across systems, teams, and external parties. Proactive management ensures that potential issues are addressed early, and delivery remains predictable and resilient.

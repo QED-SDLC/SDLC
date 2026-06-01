@@ -1,3 +1,6 @@
+---
+index: true
+---
 ## **5. Plan & Discover**
 
 The Plan & Discover phase establishes a clear understanding of the problem to be solved, the value to be delivered, and the most appropriate solution approach. It ensures that delivery efforts are grounded in validated needs, aligned to business objectives, and informed by evidence rather than assumptions.

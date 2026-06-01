@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.5 Automation First**
 
 Automation should be the default approach for build, test, deployment, and operational processes.

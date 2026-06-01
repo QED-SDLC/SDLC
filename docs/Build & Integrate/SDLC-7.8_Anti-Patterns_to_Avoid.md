@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **7.8 Anti-Patterns to Avoid**
 
 To maintain quality and delivery effectiveness, teams should avoid:

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **10.6 Proportionality and Risk-Based Approach**
 
 The level of control should match:

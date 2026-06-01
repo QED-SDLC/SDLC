@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **8.8 Anti-Patterns to Avoid**
 
 To ensure effective validation, teams should avoid:

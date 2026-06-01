@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.3 Shift Left**
 
 Risk identification, testing, and validation activities should occur as early as possible.
