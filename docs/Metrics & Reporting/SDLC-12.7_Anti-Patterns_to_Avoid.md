@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **12.7 Anti-Patterns to Avoid**
 
 * Measuring activity instead of outcomes (e.g., lines of code instead of delivered value)

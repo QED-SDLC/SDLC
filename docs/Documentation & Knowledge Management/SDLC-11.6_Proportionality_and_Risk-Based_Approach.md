@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **11.6 Proportionality and Risk-Based Approach**
 
 The level of documentation should be proportionate to:

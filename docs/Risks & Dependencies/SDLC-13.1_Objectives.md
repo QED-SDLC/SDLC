@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **13.1 Objectives**
 
 The objectives of Risks & Dependencies are to:

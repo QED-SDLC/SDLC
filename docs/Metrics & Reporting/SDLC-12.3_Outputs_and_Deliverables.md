@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **12.3 Outputs and Deliverables**
 
 Typical outputs include:

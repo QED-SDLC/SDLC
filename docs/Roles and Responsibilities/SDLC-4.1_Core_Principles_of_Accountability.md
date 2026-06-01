@@ -1,3 +1,6 @@
+---
+index: true
+---
 
 ### **4.1 Core Principles of Accountability**
 

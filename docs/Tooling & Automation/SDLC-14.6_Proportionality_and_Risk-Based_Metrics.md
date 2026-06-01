@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **14.6 Proportionality and Risk-Based Automation**
 
 * High-risk, high-volume, or critical systems should maximise automation and monitoring

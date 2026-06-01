@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **4.3 Shared Responsibilities Across Roles**
 
 While roles have defined accountabilities, several responsibilities are shared across the team:

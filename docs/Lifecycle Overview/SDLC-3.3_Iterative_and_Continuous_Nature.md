@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **3.3 Iterative and Continuous Nature**
 
 While the SDLC is presented as a series of phases, in practice it is **non-linear and iterative**:

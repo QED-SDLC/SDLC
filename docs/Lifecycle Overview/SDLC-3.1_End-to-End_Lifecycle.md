@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **3.1 End-to-End Lifecycle**
 
 The SDLC consists of the following core phases:

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.9 Governance with Guardrails (Flexible but Controlled)**
 
 The SDLC supports multiple delivery approaches while maintaining strong governance through clearly defined, non-negotiable controls.

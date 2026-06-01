@@ -1,3 +1,6 @@
+---
+index: true
+---
 
 This Software Development Lifecycle (SDLC) defines the standard practices, expectations, and governance for delivering software within the organisation. It applies to all internal teams and external vendors involved in the design, development, integration, and support of software solutions.
 

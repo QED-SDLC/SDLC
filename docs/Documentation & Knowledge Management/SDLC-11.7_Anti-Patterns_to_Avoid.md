@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **11.7 Anti-Patterns to Avoid**
 
 * Creating documentation once and letting it go stale

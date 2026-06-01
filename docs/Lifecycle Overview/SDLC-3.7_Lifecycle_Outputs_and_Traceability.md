@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **3.7 Lifecycle Outputs and Traceability**
 
 Each phase of the SDLC produces key outputs that contribute to the overall integrity of the solution.

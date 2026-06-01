@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **14.3 Outputs and Deliverables**
 
 Key outputs include:

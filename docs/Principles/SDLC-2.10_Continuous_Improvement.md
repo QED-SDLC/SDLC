@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.10 Continuous Improvement**
 
 The SDLC itself is subject to ongoing review and enhancement.

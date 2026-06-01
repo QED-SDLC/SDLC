@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **11.2 Key Activities**
 
 #### **11.2.1 Requirements and Design Documentation**

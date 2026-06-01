@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **15.3 Key Activities**
 
 #### **15.3.1 Define Tailoring Rules**

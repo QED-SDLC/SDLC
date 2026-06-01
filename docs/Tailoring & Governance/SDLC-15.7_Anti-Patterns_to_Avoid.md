@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **15.7 Anti-Patterns to Avoid**
 
 * Tailoring without approval or transparency

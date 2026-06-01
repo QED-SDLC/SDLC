@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **3.6 Proportionality and Risk-Based Application**
 
 The level of formality and control applied across the lifecycle should be proportionate to:

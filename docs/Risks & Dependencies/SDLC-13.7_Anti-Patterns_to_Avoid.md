@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **13.7 Anti-Patterns to Avoid**
 
 * Ignoring or delaying risk identification until problems occur

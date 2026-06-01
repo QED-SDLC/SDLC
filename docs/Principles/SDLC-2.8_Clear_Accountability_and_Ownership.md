@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.8 Clear Accountability and Ownership**
 
 All aspects of delivery must have clearly defined ownership.

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **2.2 Security and Privacy by Design**
 
 Security, privacy, and regulatory compliance must be embedded throughout the lifecycle, not treated as afterthoughts.

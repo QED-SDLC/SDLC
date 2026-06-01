@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **5.2 Key Activities**
 
 #### **5.2.1 Business and Stakeholder Alignment**

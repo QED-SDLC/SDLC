@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **5.3 Outputs and Deliverables**
 
 Outputs should be **fit-for-purpose** based on delivery methodology and risk, but must include:

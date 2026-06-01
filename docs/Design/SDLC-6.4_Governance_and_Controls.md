@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **6.4 Governance and Controls**
 
 The Design phase must meet the following governance expectations:

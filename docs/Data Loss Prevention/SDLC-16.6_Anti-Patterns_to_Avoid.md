@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **16.6 Anti-Patterns to Avoid**
 
 * Using production data in test environments without masking or anonymisation

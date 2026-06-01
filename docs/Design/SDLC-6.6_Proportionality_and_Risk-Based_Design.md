@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **6.6 Proportionality and Risk-Based Design**
 
 The level of design detail and formality should be proportionate to:

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **6.5 Iterative Design (Agile and Product Models)**
 
 In iterative delivery models:

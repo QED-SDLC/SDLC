@@ -1,3 +1,6 @@
+---
+index: true
+---
 # SDLC / Software Development Life Cycle
 ### A guide for the Queensland Department of Education.
 

@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **7.4 Governance and Controls**
 
 The Build & Integrate phase must adhere to the following controls:

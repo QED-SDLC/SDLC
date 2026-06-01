@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **7.1 Objectives**
 
 The objectives of Build & Integrate are to:

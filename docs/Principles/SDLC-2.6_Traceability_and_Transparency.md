@@ -1,3 +1,6 @@
+---
+index: true
+---
 
 ### **2.6 Traceability and Transparency**
 

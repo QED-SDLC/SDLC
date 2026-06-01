@@ -1,3 +1,6 @@
+---
+index: true
+---
 ### **13.4 Governance and Controls**
 
 Essential governance principles:
