@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **16.2 Key Activities**
 
 #### **16.2.1 Data Classification**
 
