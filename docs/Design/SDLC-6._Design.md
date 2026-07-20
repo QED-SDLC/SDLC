@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-## **6. Design**
 
 The Design phase translates validated requirements and insights from Plan & Discover into a structured, implementable solution. It ensures that the solution is technically feasible, scalable, secure, and aligned with organisational standards before significant build effort begins.
 
