@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **11.5 Tailoring by Delivery Model**
 
 * **Agile / Product Models**:
 
