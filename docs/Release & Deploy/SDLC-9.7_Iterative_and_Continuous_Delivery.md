@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.7 Iterative and Continuous Delivery (Agile & Product Models)**
 
 In modern delivery models:
 
