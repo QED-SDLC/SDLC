@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.3 Outputs and Deliverables**
 
 Release & Deploy must produce clear, auditable outputs:
 
