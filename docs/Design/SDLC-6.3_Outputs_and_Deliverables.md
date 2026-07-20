@@ -2,7 +2,6 @@
 index: true
 ---
 
-### **6.3 Outputs and Deliverables**
 
 Design outputs should be **fit-for-purpose** but must provide sufficient clarity to enable build and validation activities.
 
