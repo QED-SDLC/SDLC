@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.9 Anti-Patterns to Avoid**
 
 To ensure effective release practices, teams should avoid:
 
