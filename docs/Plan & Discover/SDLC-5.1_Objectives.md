@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **5.1 Objectives**
 
 The objectives of Plan & Discover are to:
 
