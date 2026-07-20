@@ -2,7 +2,6 @@
 index: true
 ---
 
-### **16.1 Objectives**
 
 The objectives of DLP are to:
 
