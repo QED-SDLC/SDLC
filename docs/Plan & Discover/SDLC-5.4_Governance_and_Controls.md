@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **5.4 Governance and Controls**
 
 While Plan & Discover encourages exploration and flexibility, the following controls must be met:
 
