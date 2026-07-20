@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **11.1 Objectives**
 
 The objectives of Documentation & Knowledge Management are to:
 
