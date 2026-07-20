@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-## **9. Release & Deploy**
 
 The Release & Deploy phase governs how software is packaged, approved, and delivered into production environments. It ensures that deployments are **controlled, repeatable, and low risk**, while enabling teams to deliver value efficiently and frequently.
 
