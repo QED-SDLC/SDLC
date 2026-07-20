@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **7.6 Iterative Development (Agile and Product Models)**
 
 In iterative delivery models:
 
