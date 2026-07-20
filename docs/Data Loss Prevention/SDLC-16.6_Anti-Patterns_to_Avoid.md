@@ -1,9 +1,8 @@
 ---
 index: true
 ---
-### **16.6 Anti-Patterns to Avoid**
 
-* Using production data in test environments without masking or anonymisation
+* Using production data in test environments without masking or suitable controls
 * Ignoring access reviews or leaving unnecessary privileges enabled
 * Failing to monitor or respond to DLP alerts
 * Relying solely on reactive measures rather than proactive data protection
