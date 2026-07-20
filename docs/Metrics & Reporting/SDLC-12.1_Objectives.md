@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **12.1 Objectives**
 
 The objectives of Metrics & Reporting are to:
 
