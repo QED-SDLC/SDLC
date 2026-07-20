@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **3.2 Methodology-Agnostic Structure**
 
 This SDLC is designed to support multiple delivery approaches:
 
