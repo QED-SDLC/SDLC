@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-## **15. Tailoring & Governance**
 
 Tailoring & Governance defines **how the SDLC can be adapted** to different project types, delivery methods, and organisational contexts while ensuring that governance, compliance, and quality standards are consistently applied.
 
