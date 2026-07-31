@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **8.2 Key Activities**
 
 #### **8.2.1 Test Strategy and Planning**
 
