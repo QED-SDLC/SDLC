@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **14.4 Governance and Controls**
 
 * **Consistency**: Tools must support standardised processes across teams
 * **Security**: Tools and automation must comply with organisational security standards
