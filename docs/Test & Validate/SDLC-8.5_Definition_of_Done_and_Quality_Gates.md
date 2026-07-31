@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **8.5 Definition of “Done” and Quality Gates**
 
 Each delivery must define a clear **Definition of Done**, which includes:
 
