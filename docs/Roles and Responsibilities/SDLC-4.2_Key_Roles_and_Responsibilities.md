@@ -2,7 +2,6 @@
 index: true
 ---
 
-### **4.2 Key Roles and Responsibilities**
 
 #### **Product Manager**
 
