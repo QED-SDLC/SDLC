@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-## **14. Tooling & Automation**
 
 The Tooling & Automation phase defines the technologies, platforms, and automation practices that support the software development lifecycle. Proper tooling enables **consistency, efficiency, traceability, and quality**, while reducing manual effort and human error.
 
