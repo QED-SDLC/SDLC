@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **13.7 Anti-Patterns to Avoid**
 
 * Ignoring or delaying risk identification until problems occur
 * Failing to assign clear ownership for risks or dependencies
