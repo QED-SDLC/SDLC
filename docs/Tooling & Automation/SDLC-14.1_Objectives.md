@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **14.1 Objectives**
 
 The objectives of Tooling & Automation are to:
 
