@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **8.7 Proportionality and Risk-Based Testing**
 
 The depth and formality of testing should be proportionate to:
 
