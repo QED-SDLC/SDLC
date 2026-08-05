@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **10.1 Objectives**
 
 The objectives of Change & Configuration Management are to:
 

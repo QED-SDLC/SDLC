@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **16.4 Governance and Controls**
 
 Key governance requirements:
 

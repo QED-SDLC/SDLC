@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.2 Key Activities**
 
 #### **9.2.1 Release Planning**
 

@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **2.4 Iterative and Incremental Delivery**
 
 Solutions should be delivered in manageable increments to enable feedback and continuous improvement.
 

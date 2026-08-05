@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **7.2 Key Activities**
 
 #### **7.2.1 Development and Configuration**
 

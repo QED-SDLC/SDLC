@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **5.6 Anti-Patterns to Avoid**
 
 To maintain effectiveness, teams should avoid:
 

@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.5 Automation and CI/CD Enablement**
 
 Automation is a key enabler of effective release and deployment:
 

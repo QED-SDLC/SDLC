@@ -2,8 +2,6 @@
 index: true
 ---
 
-### **3.5 Embedded Governance and Controls**
-
 Governance is embedded throughout the lifecycle rather than applied only at specific checkpoints.
 
 * Controls such as security, testing, and documentation are integrated into each phase

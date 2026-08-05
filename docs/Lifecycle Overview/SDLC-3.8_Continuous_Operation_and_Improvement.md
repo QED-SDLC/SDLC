@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **3.8 Continuous Operation and Improvement**
 
 The lifecycle does not end at deployment. Ongoing activities include:
 

@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **8.3 Outputs and Deliverables**
 
 Testing outputs must provide clear evidence of quality and readiness.
 

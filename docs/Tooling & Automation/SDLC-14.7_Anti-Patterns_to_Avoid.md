@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **14.7 Anti-Patterns to Avoid**
 
 * Overcomplicating tooling with redundant or unnecessary platforms
 * Manual processes for tasks that can be reliably automated

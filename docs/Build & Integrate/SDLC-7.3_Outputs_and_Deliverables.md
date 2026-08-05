@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **7.3 Outputs and Deliverables**
 
 Outputs from this phase must be reliable, traceable, and ready for validation and deployment.
 

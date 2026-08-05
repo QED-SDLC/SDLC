@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **15.1 Objectives**
 
 The objectives of Tailoring & Governance are to:
 

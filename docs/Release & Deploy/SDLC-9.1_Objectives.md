@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.1 Objectives**
 
 The objectives of Release & Deploy are to:
 

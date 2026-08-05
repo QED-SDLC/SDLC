@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **2.1 Business Value First**
 
 All work must be aligned to clearly defined business outcomes. Delivery teams are accountable for ensuring that effort is prioritised based on value, risk, and strategic alignment.
 

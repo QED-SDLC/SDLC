@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-## **8. Test & Validate**
 
 The Test & Validate phase ensures that the solution meets defined functional and non-functional requirements and is fit for purpose prior to release. It provides confidence that the system is reliable, secure, and aligned with business expectations.
 

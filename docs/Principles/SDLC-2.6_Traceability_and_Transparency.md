@@ -2,8 +2,6 @@
 index: true
 ---
 
-### **2.6 Traceability and Transparency**
-
 All artefacts across the SDLC must be traceable and visible.
 
 * Requirements, design, code, testing, and releases must be linked

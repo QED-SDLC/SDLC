@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **13.5 Alignment Across Delivery Models**
 
 * **Agile / Product Models**:
 

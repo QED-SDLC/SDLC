@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **4.4 Role Alignment Across Delivery Models**
 
 To support different methodologies:
 

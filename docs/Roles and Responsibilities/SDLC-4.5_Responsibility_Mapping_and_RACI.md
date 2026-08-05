@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **4.5 Responsibility Mapping and RACI (Optional Implementation)**
 
 For complex initiatives, teams should define a **RACI (Responsible, Accountable, Consulted, Involved)** model to clarify ownership across key activities.
 

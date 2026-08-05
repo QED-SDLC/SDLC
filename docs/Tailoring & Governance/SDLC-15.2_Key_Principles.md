@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **15.2 Key Principles**
 
 1. **Proportionality**
 

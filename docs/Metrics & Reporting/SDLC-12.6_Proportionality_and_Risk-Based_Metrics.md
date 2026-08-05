@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **12.6 Proportionality and Risk-Based Metrics**
 
 The number and depth of metrics should reflect:
 

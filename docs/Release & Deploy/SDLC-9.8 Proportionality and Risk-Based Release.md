@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **9.8 Proportionality and Risk-Based Release**
 
 Release processes should scale based on:
 

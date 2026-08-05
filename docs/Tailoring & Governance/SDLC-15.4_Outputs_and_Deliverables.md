@@ -1,7 +1,6 @@
 ---
 index: true
 ---
-### **15.4 Outputs and Deliverables**
 
 * Tailoring guidance and project-specific plans
 * Documentation of mandatory vs adaptable processes
